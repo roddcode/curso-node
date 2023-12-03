@@ -1,0 +1,15 @@
+{
+  "name": "primeros-pasos-npm",
+  "version": "1.0.0",
+  "description": "En este proyecto aprendemos npm",
+  "main": "app.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Alvarado <devale.alvarado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "18.1.0"
+  }
+}
